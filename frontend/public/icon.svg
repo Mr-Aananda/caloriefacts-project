@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" width="512" height="512">
+  <defs>
+    <linearGradient id="cal-bg" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#10b981" />
+      <stop offset="100%" stop-color="#047857" />
+    </linearGradient>
+    <linearGradient id="cal-accent" x1="0%" y1="100%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#34d399" />
+      <stop offset="100%" stop-color="#fbbf24" />
+    </linearGradient>
+  </defs>
+  <rect width="512" height="512" rx="130" fill="url(#cal-bg)"/>
+  <path fill="#ffffff" d="M345 165 C 315 130, 255 125, 205 155 C 150 188, 130 255, 145 315 C 160 375, 215 415, 280 405 C 330 395, 370 360, 390 315 C 370 322, 350 320, 335 310 C 318 340, 278 360, 240 350 C 195 340, 168 295, 175 250 C 182 200, 225 165, 275 170 C 308 173, 332 192, 345 220 C 352 205, 350 185, 345 165 Z"/>
+  <path fill="url(#cal-accent)" d="M305 205 C 290 240, 255 265, 255 300 C 255 325, 275 345, 300 345 C 325 345, 345 325, 345 300 C 345 270, 320 250, 305 205 Z"/>
+</svg>

@@ -1,0 +1,1675 @@
+[
+  {
+    "id": 1,
+    "slug": "apple",
+    "name": "Apple",
+    "category": "Fruits",
+    "preparation": "raw, with skin",
+    "servingSizeG": 100,
+    "calories": 52,
+    "protein_g": 0.3,
+    "carbs_g": 14,
+    "fat_g": 0.2,
+    "fiber_g": 2.4,
+    "sugar_g": 10.4,
+    "sodium_mg": 1,
+    "tags": [
+      "low-fat"
+    ]
+  },
+  {
+    "id": 2,
+    "slug": "banana",
+    "name": "Banana",
+    "category": "Fruits",
+    "preparation": "raw",
+    "servingSizeG": 100,
+    "calories": 89,
+    "protein_g": 1.1,
+    "carbs_g": 23,
+    "fat_g": 0.3,
+    "fiber_g": 2.6,
+    "sugar_g": 12.2,
+    "sodium_mg": 1,
+    "tags": [
+      "low-fat"
+    ]
+  },
+  {
+    "id": 3,
+    "slug": "orange",
+    "name": "Orange",
+    "category": "Fruits",
+    "preparation": "raw",
+    "servingSizeG": 100,
+    "calories": 47,
+    "protein_g": 0.9,
+    "carbs_g": 12,
+    "fat_g": 0.1,
+    "fiber_g": 2.4,
+    "sugar_g": 9.4,
+    "sodium_mg": 0,
+    "tags": [
+      "low-calorie",
+      "low-fat"
+    ]
+  },
+  {
+    "id": 4,
+    "slug": "strawberries",
+    "name": "Strawberries",
+    "category": "Fruits",
+    "preparation": "raw",
+    "servingSizeG": 100,
+    "calories": 32,
+    "protein_g": 0.7,
+    "carbs_g": 7.7,
+    "fat_g": 0.3,
+    "fiber_g": 2,
+    "sugar_g": 4.9,
+    "sodium_mg": 1,
+    "tags": [
+      "low-calorie",
+      "low-fat"
+    ]
+  },
+  {
+    "id": 5,
+    "slug": "grapes",
+    "name": "Grapes",
+    "category": "Fruits",
+    "preparation": "raw",
+    "servingSizeG": 100,
+    "calories": 69,
+    "protein_g": 0.7,
+    "carbs_g": 18,
+    "fat_g": 0.2,
+    "fiber_g": 0.9,
+    "sugar_g": 16,
+    "sodium_mg": 2,
+    "tags": [
+      "low-fat"
+    ]
+  },
+  {
+    "id": 6,
+    "slug": "mango",
+    "name": "Mango",
+    "category": "Fruits",
+    "preparation": "raw",
+    "servingSizeG": 100,
+    "calories": 60,
+    "protein_g": 0.8,
+    "carbs_g": 15,
+    "fat_g": 0.4,
+    "fiber_g": 1.6,
+    "sugar_g": 14,
+    "sodium_mg": 1,
+    "tags": [
+      "low-fat"
+    ]
+  },
+  {
+    "id": 7,
+    "slug": "pineapple",
+    "name": "Pineapple",
+    "category": "Fruits",
+    "preparation": "raw",
+    "servingSizeG": 100,
+    "calories": 50,
+    "protein_g": 0.5,
+    "carbs_g": 13,
+    "fat_g": 0.1,
+    "fiber_g": 1.4,
+    "sugar_g": 10,
+    "sodium_mg": 1,
+    "tags": [
+      "low-calorie",
+      "low-fat"
+    ]
+  },
+  {
+    "id": 8,
+    "slug": "watermelon",
+    "name": "Watermelon",
+    "category": "Fruits",
+    "preparation": "raw",
+    "servingSizeG": 100,
+    "calories": 30,
+    "protein_g": 0.6,
+    "carbs_g": 8,
+    "fat_g": 0.2,
+    "fiber_g": 0.4,
+    "sugar_g": 6,
+    "sodium_mg": 1,
+    "tags": [
+      "low-calorie",
+      "low-fat"
+    ]
+  },
+  {
+    "id": 9,
+    "slug": "blueberries",
+    "name": "Blueberries",
+    "category": "Fruits",
+    "preparation": "raw",
+    "servingSizeG": 100,
+    "calories": 57,
+    "protein_g": 0.7,
+    "carbs_g": 14,
+    "fat_g": 0.3,
+    "fiber_g": 2.4,
+    "sugar_g": 10,
+    "sodium_mg": 1,
+    "tags": [
+      "low-fat"
+    ]
+  },
+  {
+    "id": 10,
+    "slug": "avocado",
+    "name": "Avocado",
+    "category": "Fruits",
+    "preparation": "raw",
+    "servingSizeG": 100,
+    "calories": 160,
+    "protein_g": 2,
+    "carbs_g": 8.5,
+    "fat_g": 15,
+    "fiber_g": 6.7,
+    "sugar_g": 0.7,
+    "sodium_mg": 7,
+    "tags": [
+      "high-fiber"
+    ]
+  },
+  {
+    "id": 11,
+    "slug": "pear",
+    "name": "Pear",
+    "category": "Fruits",
+    "preparation": "raw",
+    "servingSizeG": 100,
+    "calories": 57,
+    "protein_g": 0.4,
+    "carbs_g": 15,
+    "fat_g": 0.1,
+    "fiber_g": 3.1,
+    "sugar_g": 10,
+    "sodium_mg": 1,
+    "tags": [
+      "low-fat"
+    ]
+  },
+  {
+    "id": 12,
+    "slug": "peach",
+    "name": "Peach",
+    "category": "Fruits",
+    "preparation": "raw",
+    "servingSizeG": 100,
+    "calories": 39,
+    "protein_g": 0.9,
+    "carbs_g": 10,
+    "fat_g": 0.3,
+    "fiber_g": 1.5,
+    "sugar_g": 8.4,
+    "sodium_mg": 0,
+    "tags": [
+      "low-calorie",
+      "low-fat"
+    ]
+  },
+  {
+    "id": 13,
+    "slug": "kiwi",
+    "name": "Kiwi",
+    "category": "Fruits",
+    "preparation": "raw",
+    "servingSizeG": 100,
+    "calories": 61,
+    "protein_g": 1.1,
+    "carbs_g": 15,
+    "fat_g": 0.5,
+    "fiber_g": 3,
+    "sugar_g": 9,
+    "sodium_mg": 3,
+    "tags": [
+      "low-fat"
+    ]
+  },
+  {
+    "id": 14,
+    "slug": "cherries",
+    "name": "Cherries",
+    "category": "Fruits",
+    "preparation": "raw",
+    "servingSizeG": 100,
+    "calories": 63,
+    "protein_g": 1.1,
+    "carbs_g": 16,
+    "fat_g": 0.2,
+    "fiber_g": 2.1,
+    "sugar_g": 12.8,
+    "sodium_mg": 0,
+    "tags": [
+      "low-fat"
+    ]
+  },
+  {
+    "id": 15,
+    "slug": "papaya",
+    "name": "Papaya",
+    "category": "Fruits",
+    "preparation": "raw",
+    "servingSizeG": 100,
+    "calories": 43,
+    "protein_g": 0.5,
+    "carbs_g": 11,
+    "fat_g": 0.3,
+    "fiber_g": 1.7,
+    "sugar_g": 7.8,
+    "sodium_mg": 8,
+    "tags": [
+      "low-calorie",
+      "low-fat"
+    ]
+  },
+  {
+    "id": 16,
+    "slug": "lemon",
+    "name": "Lemon",
+    "category": "Fruits",
+    "preparation": "raw",
+    "servingSizeG": 100,
+    "calories": 29,
+    "protein_g": 1.1,
+    "carbs_g": 9.3,
+    "fat_g": 0.3,
+    "fiber_g": 2.8,
+    "sugar_g": 2.5,
+    "sodium_mg": 2,
+    "tags": [
+      "low-calorie",
+      "low-fat"
+    ]
+  },
+  {
+    "id": 17,
+    "slug": "grapefruit",
+    "name": "Grapefruit",
+    "category": "Fruits",
+    "preparation": "raw",
+    "servingSizeG": 100,
+    "calories": 42,
+    "protein_g": 0.8,
+    "carbs_g": 11,
+    "fat_g": 0.1,
+    "fiber_g": 1.6,
+    "sugar_g": 7,
+    "sodium_mg": 0,
+    "tags": [
+      "low-calorie",
+      "low-fat"
+    ]
+  },
+  {
+    "id": 18,
+    "slug": "broccoli",
+    "name": "Broccoli",
+    "category": "Vegetables",
+    "preparation": "raw",
+    "servingSizeG": 100,
+    "calories": 34,
+    "protein_g": 2.8,
+    "carbs_g": 6.6,
+    "fat_g": 0.4,
+    "fiber_g": 2.6,
+    "sugar_g": 1.7,
+    "sodium_mg": 33,
+    "tags": [
+      "low-calorie",
+      "low-fat"
+    ]
+  },
+  {
+    "id": 19,
+    "slug": "spinach",
+    "name": "Spinach",
+    "category": "Vegetables",
+    "preparation": "raw",
+    "servingSizeG": 100,
+    "calories": 23,
+    "protein_g": 2.9,
+    "carbs_g": 3.6,
+    "fat_g": 0.4,
+    "fiber_g": 2.2,
+    "sugar_g": 0.4,
+    "sodium_mg": 79,
+    "tags": [
+      "low-calorie",
+      "low-fat",
+      "low-carb"
+    ]
+  },
+  {
+    "id": 20,
+    "slug": "carrot",
+    "name": "Carrot",
+    "category": "Vegetables",
+    "preparation": "raw",
+    "servingSizeG": 100,
+    "calories": 41,
+    "protein_g": 0.9,
+    "carbs_g": 10,
+    "fat_g": 0.2,
+    "fiber_g": 2.8,
+    "sugar_g": 4.7,
+    "sodium_mg": 69,
+    "tags": [
+      "low-calorie",
+      "low-fat"
+    ]
+  },
+  {
+    "id": 21,
+    "slug": "potato",
+    "name": "Potato",
+    "category": "Vegetables",
+    "preparation": "baked, with skin",
+    "servingSizeG": 100,
+    "calories": 93,
+    "protein_g": 2.5,
+    "carbs_g": 21,
+    "fat_g": 0.1,
+    "fiber_g": 2.2,
+    "sugar_g": 1.2,
+    "sodium_mg": 6,
+    "tags": [
+      "low-fat"
+    ]
+  },
+  {
+    "id": 22,
+    "slug": "sweet-potato",
+    "name": "Sweet Potato",
+    "category": "Vegetables",
+    "preparation": "baked",
+    "servingSizeG": 100,
+    "calories": 90,
+    "protein_g": 2,
+    "carbs_g": 21,
+    "fat_g": 0.1,
+    "fiber_g": 3.3,
+    "sugar_g": 6.5,
+    "sodium_mg": 36,
+    "tags": [
+      "low-fat"
+    ]
+  },
+  {
+    "id": 23,
+    "slug": "tomato",
+    "name": "Tomato",
+    "category": "Vegetables",
+    "preparation": "raw",
+    "servingSizeG": 100,
+    "calories": 18,
+    "protein_g": 0.9,
+    "carbs_g": 3.9,
+    "fat_g": 0.2,
+    "fiber_g": 1.2,
+    "sugar_g": 2.6,
+    "sodium_mg": 5,
+    "tags": [
+      "low-calorie",
+      "low-fat",
+      "low-carb"
+    ]
+  },
+  {
+    "id": 24,
+    "slug": "cucumber",
+    "name": "Cucumber",
+    "category": "Vegetables",
+    "preparation": "raw",
+    "servingSizeG": 100,
+    "calories": 15,
+    "protein_g": 0.7,
+    "carbs_g": 3.6,
+    "fat_g": 0.1,
+    "fiber_g": 0.5,
+    "sugar_g": 1.7,
+    "sodium_mg": 2,
+    "tags": [
+      "low-calorie",
+      "low-fat",
+      "low-carb"
+    ]
+  },
+  {
+    "id": 25,
+    "slug": "onion",
+    "name": "Onion",
+    "category": "Vegetables",
+    "preparation": "raw",
+    "servingSizeG": 100,
+    "calories": 40,
+    "protein_g": 1.1,
+    "carbs_g": 9.3,
+    "fat_g": 0.1,
+    "fiber_g": 1.7,
+    "sugar_g": 4.2,
+    "sodium_mg": 4,
+    "tags": [
+      "low-calorie",
+      "low-fat"
+    ]
+  },
+  {
+    "id": 26,
+    "slug": "garlic",
+    "name": "Garlic",
+    "category": "Vegetables",
+    "preparation": "raw",
+    "servingSizeG": 100,
+    "calories": 149,
+    "protein_g": 6.4,
+    "carbs_g": 33,
+    "fat_g": 0.5,
+    "fiber_g": 2.1,
+    "sugar_g": 1,
+    "sodium_mg": 17,
+    "tags": [
+      "low-fat"
+    ]
+  },
+  {
+    "id": 27,
+    "slug": "bell-pepper",
+    "name": "Bell Pepper",
+    "category": "Vegetables",
+    "preparation": "raw",
+    "servingSizeG": 100,
+    "calories": 31,
+    "protein_g": 1,
+    "carbs_g": 6,
+    "fat_g": 0.3,
+    "fiber_g": 2.1,
+    "sugar_g": 4.2,
+    "sodium_mg": 4,
+    "tags": [
+      "low-calorie",
+      "low-fat"
+    ]
+  },
+  {
+    "id": 28,
+    "slug": "cauliflower",
+    "name": "Cauliflower",
+    "category": "Vegetables",
+    "preparation": "raw",
+    "servingSizeG": 100,
+    "calories": 25,
+    "protein_g": 1.9,
+    "carbs_g": 5,
+    "fat_g": 0.3,
+    "fiber_g": 2,
+    "sugar_g": 1.9,
+    "sodium_mg": 30,
+    "tags": [
+      "low-calorie",
+      "low-fat",
+      "low-carb"
+    ]
+  },
+  {
+    "id": 29,
+    "slug": "lettuce",
+    "name": "Lettuce",
+    "category": "Vegetables",
+    "preparation": "raw",
+    "servingSizeG": 100,
+    "calories": 15,
+    "protein_g": 1.4,
+    "carbs_g": 2.9,
+    "fat_g": 0.2,
+    "fiber_g": 1.3,
+    "sugar_g": 0.8,
+    "sodium_mg": 28,
+    "tags": [
+      "low-calorie",
+      "low-fat",
+      "low-carb"
+    ]
+  },
+  {
+    "id": 30,
+    "slug": "corn",
+    "name": "Corn",
+    "category": "Vegetables",
+    "preparation": "boiled",
+    "servingSizeG": 100,
+    "calories": 96,
+    "protein_g": 3.4,
+    "carbs_g": 21,
+    "fat_g": 1.5,
+    "fiber_g": 2.4,
+    "sugar_g": 4.5,
+    "sodium_mg": 15,
+    "tags": []
+  },
+  {
+    "id": 31,
+    "slug": "green-beans",
+    "name": "Green Beans",
+    "category": "Vegetables",
+    "preparation": "boiled",
+    "servingSizeG": 100,
+    "calories": 31,
+    "protein_g": 1.8,
+    "carbs_g": 7,
+    "fat_g": 0.1,
+    "fiber_g": 3.4,
+    "sugar_g": 3.3,
+    "sodium_mg": 6,
+    "tags": [
+      "low-calorie",
+      "low-fat"
+    ]
+  },
+  {
+    "id": 32,
+    "slug": "mushrooms",
+    "name": "Mushrooms",
+    "category": "Vegetables",
+    "preparation": "raw",
+    "servingSizeG": 100,
+    "calories": 22,
+    "protein_g": 3.1,
+    "carbs_g": 3.3,
+    "fat_g": 0.3,
+    "fiber_g": 1,
+    "sugar_g": 2,
+    "sodium_mg": 5,
+    "tags": [
+      "low-calorie",
+      "low-fat",
+      "low-carb"
+    ]
+  },
+  {
+    "id": 33,
+    "slug": "zucchini",
+    "name": "Zucchini",
+    "category": "Vegetables",
+    "preparation": "raw",
+    "servingSizeG": 100,
+    "calories": 17,
+    "protein_g": 1.2,
+    "carbs_g": 3.1,
+    "fat_g": 0.3,
+    "fiber_g": 1,
+    "sugar_g": 2.5,
+    "sodium_mg": 8,
+    "tags": [
+      "low-calorie",
+      "low-fat",
+      "low-carb"
+    ]
+  },
+  {
+    "id": 34,
+    "slug": "asparagus",
+    "name": "Asparagus",
+    "category": "Vegetables",
+    "preparation": "boiled",
+    "servingSizeG": 100,
+    "calories": 20,
+    "protein_g": 2.2,
+    "carbs_g": 3.9,
+    "fat_g": 0.1,
+    "fiber_g": 2.1,
+    "sugar_g": 1.9,
+    "sodium_mg": 2,
+    "tags": [
+      "low-calorie",
+      "low-fat",
+      "low-carb"
+    ]
+  },
+  {
+    "id": 35,
+    "slug": "cabbage",
+    "name": "Cabbage",
+    "category": "Vegetables",
+    "preparation": "raw",
+    "servingSizeG": 100,
+    "calories": 25,
+    "protein_g": 1.3,
+    "carbs_g": 6,
+    "fat_g": 0.1,
+    "fiber_g": 2.5,
+    "sugar_g": 3.2,
+    "sodium_mg": 18,
+    "tags": [
+      "low-calorie",
+      "low-fat"
+    ]
+  },
+  {
+    "id": 36,
+    "slug": "chicken-breast",
+    "name": "Chicken Breast",
+    "category": "Meat & Poultry",
+    "preparation": "grilled, skinless",
+    "servingSizeG": 100,
+    "calories": 165,
+    "protein_g": 31,
+    "carbs_g": 0,
+    "fat_g": 3.6,
+    "fiber_g": 0,
+    "sugar_g": 0,
+    "sodium_mg": 74,
+    "tags": [
+      "high-protein"
+    ]
+  },
+  {
+    "id": 37,
+    "slug": "chicken-thigh",
+    "name": "Chicken Thigh",
+    "category": "Meat & Poultry",
+    "preparation": "grilled, skinless",
+    "servingSizeG": 100,
+    "calories": 209,
+    "protein_g": 26,
+    "carbs_g": 0,
+    "fat_g": 10.9,
+    "fiber_g": 0,
+    "sugar_g": 0,
+    "sodium_mg": 84,
+    "tags": [
+      "high-protein"
+    ]
+  },
+  {
+    "id": 38,
+    "slug": "ground-beef-80-20",
+    "name": "Ground Beef (80/20)",
+    "category": "Meat & Poultry",
+    "preparation": "cooked",
+    "servingSizeG": 100,
+    "calories": 254,
+    "protein_g": 25,
+    "carbs_g": 0,
+    "fat_g": 17,
+    "fiber_g": 0,
+    "sugar_g": 0,
+    "sodium_mg": 75,
+    "tags": [
+      "high-protein"
+    ]
+  },
+  {
+    "id": 39,
+    "slug": "beef-steak-sirloin",
+    "name": "Beef Steak (Sirloin)",
+    "category": "Meat & Poultry",
+    "preparation": "cooked",
+    "servingSizeG": 100,
+    "calories": 271,
+    "protein_g": 26,
+    "carbs_g": 0,
+    "fat_g": 18,
+    "fiber_g": 0,
+    "sugar_g": 0,
+    "sodium_mg": 60,
+    "tags": [
+      "high-protein"
+    ]
+  },
+  {
+    "id": 40,
+    "slug": "pork-chop",
+    "name": "Pork Chop",
+    "category": "Meat & Poultry",
+    "preparation": "cooked",
+    "servingSizeG": 100,
+    "calories": 231,
+    "protein_g": 26,
+    "carbs_g": 0,
+    "fat_g": 14,
+    "fiber_g": 0,
+    "sugar_g": 0,
+    "sodium_mg": 63,
+    "tags": [
+      "high-protein"
+    ]
+  },
+  {
+    "id": 41,
+    "slug": "bacon",
+    "name": "Bacon",
+    "category": "Meat & Poultry",
+    "preparation": "cooked",
+    "servingSizeG": 100,
+    "calories": 541,
+    "protein_g": 37,
+    "carbs_g": 1.4,
+    "fat_g": 42,
+    "fiber_g": 0,
+    "sugar_g": 0,
+    "sodium_mg": 1717,
+    "tags": [
+      "high-protein",
+      "calorie-dense"
+    ]
+  },
+  {
+    "id": 42,
+    "slug": "turkey-breast",
+    "name": "Turkey Breast",
+    "category": "Meat & Poultry",
+    "preparation": "roasted",
+    "servingSizeG": 100,
+    "calories": 135,
+    "protein_g": 30,
+    "carbs_g": 0,
+    "fat_g": 1,
+    "fiber_g": 0,
+    "sugar_g": 0,
+    "sodium_mg": 63,
+    "tags": [
+      "high-protein",
+      "low-fat",
+      "low-carb"
+    ]
+  },
+  {
+    "id": 43,
+    "slug": "lamb",
+    "name": "Lamb",
+    "category": "Meat & Poultry",
+    "preparation": "cooked",
+    "servingSizeG": 100,
+    "calories": 294,
+    "protein_g": 25,
+    "carbs_g": 0,
+    "fat_g": 21,
+    "fiber_g": 0,
+    "sugar_g": 0,
+    "sodium_mg": 72,
+    "tags": [
+      "high-protein"
+    ]
+  },
+  {
+    "id": 44,
+    "slug": "salmon",
+    "name": "Salmon",
+    "category": "Seafood",
+    "preparation": "cooked",
+    "servingSizeG": 100,
+    "calories": 206,
+    "protein_g": 22,
+    "carbs_g": 0,
+    "fat_g": 12,
+    "fiber_g": 0,
+    "sugar_g": 0,
+    "sodium_mg": 61,
+    "tags": [
+      "high-protein"
+    ]
+  },
+  {
+    "id": 45,
+    "slug": "tuna-canned-in-water",
+    "name": "Tuna (canned in water)",
+    "category": "Seafood",
+    "preparation": "canned, drained",
+    "servingSizeG": 100,
+    "calories": 116,
+    "protein_g": 26,
+    "carbs_g": 0,
+    "fat_g": 0.8,
+    "fiber_g": 0,
+    "sugar_g": 0,
+    "sodium_mg": 247,
+    "tags": [
+      "high-protein",
+      "low-fat",
+      "low-carb"
+    ]
+  },
+  {
+    "id": 46,
+    "slug": "shrimp",
+    "name": "Shrimp",
+    "category": "Seafood",
+    "preparation": "cooked",
+    "servingSizeG": 100,
+    "calories": 99,
+    "protein_g": 24,
+    "carbs_g": 0.2,
+    "fat_g": 0.3,
+    "fiber_g": 0,
+    "sugar_g": 0,
+    "sodium_mg": 111,
+    "tags": [
+      "high-protein",
+      "low-fat",
+      "low-carb"
+    ]
+  },
+  {
+    "id": 47,
+    "slug": "tilapia",
+    "name": "Tilapia",
+    "category": "Seafood",
+    "preparation": "cooked",
+    "servingSizeG": 100,
+    "calories": 128,
+    "protein_g": 26,
+    "carbs_g": 0,
+    "fat_g": 2.7,
+    "fiber_g": 0,
+    "sugar_g": 0,
+    "sodium_mg": 56,
+    "tags": [
+      "high-protein",
+      "low-carb"
+    ]
+  },
+  {
+    "id": 48,
+    "slug": "cod",
+    "name": "Cod",
+    "category": "Seafood",
+    "preparation": "cooked",
+    "servingSizeG": 100,
+    "calories": 105,
+    "protein_g": 23,
+    "carbs_g": 0,
+    "fat_g": 0.9,
+    "fiber_g": 0,
+    "sugar_g": 0,
+    "sodium_mg": 78,
+    "tags": [
+      "high-protein",
+      "low-fat",
+      "low-carb"
+    ]
+  },
+  {
+    "id": 49,
+    "slug": "egg",
+    "name": "Egg",
+    "category": "Dairy & Eggs",
+    "preparation": "boiled",
+    "servingSizeG": 100,
+    "calories": 155,
+    "protein_g": 13,
+    "carbs_g": 1.1,
+    "fat_g": 11,
+    "fiber_g": 0,
+    "sugar_g": 1.1,
+    "sodium_mg": 124,
+    "tags": []
+  },
+  {
+    "id": 50,
+    "slug": "whole-milk",
+    "name": "Whole Milk",
+    "category": "Dairy & Eggs",
+    "preparation": "3.25% fat",
+    "servingSizeG": 100,
+    "calories": 61,
+    "protein_g": 3.2,
+    "carbs_g": 4.8,
+    "fat_g": 3.3,
+    "fiber_g": 0,
+    "sugar_g": 5.1,
+    "sodium_mg": 40,
+    "tags": [
+      "low-carb"
+    ]
+  },
+  {
+    "id": 51,
+    "slug": "skim-milk",
+    "name": "Skim Milk",
+    "category": "Dairy & Eggs",
+    "preparation": "fat free",
+    "servingSizeG": 100,
+    "calories": 34,
+    "protein_g": 3.4,
+    "carbs_g": 5,
+    "fat_g": 0.1,
+    "fiber_g": 0,
+    "sugar_g": 5,
+    "sodium_mg": 42,
+    "tags": [
+      "low-calorie",
+      "low-fat",
+      "low-carb"
+    ]
+  },
+  {
+    "id": 52,
+    "slug": "greek-yogurt",
+    "name": "Greek Yogurt",
+    "category": "Dairy & Eggs",
+    "preparation": "plain, nonfat",
+    "servingSizeG": 100,
+    "calories": 59,
+    "protein_g": 10,
+    "carbs_g": 3.6,
+    "fat_g": 0.4,
+    "fiber_g": 0,
+    "sugar_g": 3.2,
+    "sodium_mg": 36,
+    "tags": [
+      "low-fat",
+      "low-carb"
+    ]
+  },
+  {
+    "id": 53,
+    "slug": "cheddar-cheese",
+    "name": "Cheddar Cheese",
+    "category": "Dairy & Eggs",
+    "preparation": "",
+    "servingSizeG": 100,
+    "calories": 403,
+    "protein_g": 25,
+    "carbs_g": 1.3,
+    "fat_g": 33,
+    "fiber_g": 0,
+    "sugar_g": 0.5,
+    "sodium_mg": 621,
+    "tags": [
+      "high-protein",
+      "calorie-dense"
+    ]
+  },
+  {
+    "id": 54,
+    "slug": "mozzarella-cheese",
+    "name": "Mozzarella Cheese",
+    "category": "Dairy & Eggs",
+    "preparation": "",
+    "servingSizeG": 100,
+    "calories": 280,
+    "protein_g": 28,
+    "carbs_g": 3.1,
+    "fat_g": 17,
+    "fiber_g": 0,
+    "sugar_g": 1,
+    "sodium_mg": 627,
+    "tags": [
+      "high-protein"
+    ]
+  },
+  {
+    "id": 55,
+    "slug": "butter",
+    "name": "Butter",
+    "category": "Dairy & Eggs",
+    "preparation": "",
+    "servingSizeG": 100,
+    "calories": 717,
+    "protein_g": 0.9,
+    "carbs_g": 0.1,
+    "fat_g": 81,
+    "fiber_g": 0,
+    "sugar_g": 0.1,
+    "sodium_mg": 11,
+    "tags": [
+      "calorie-dense"
+    ]
+  },
+  {
+    "id": 56,
+    "slug": "cottage-cheese",
+    "name": "Cottage Cheese",
+    "category": "Dairy & Eggs",
+    "preparation": "low fat",
+    "servingSizeG": 100,
+    "calories": 98,
+    "protein_g": 11,
+    "carbs_g": 3.4,
+    "fat_g": 4.3,
+    "fiber_g": 0,
+    "sugar_g": 2.7,
+    "sodium_mg": 364,
+    "tags": [
+      "low-carb"
+    ]
+  },
+  {
+    "id": 57,
+    "slug": "white-rice",
+    "name": "White Rice",
+    "category": "Grains & Bread",
+    "preparation": "cooked",
+    "servingSizeG": 100,
+    "calories": 130,
+    "protein_g": 2.7,
+    "carbs_g": 28,
+    "fat_g": 0.3,
+    "fiber_g": 0.4,
+    "sugar_g": 0.1,
+    "sodium_mg": 1,
+    "tags": [
+      "low-fat"
+    ]
+  },
+  {
+    "id": 58,
+    "slug": "brown-rice",
+    "name": "Brown Rice",
+    "category": "Grains & Bread",
+    "preparation": "cooked",
+    "servingSizeG": 100,
+    "calories": 112,
+    "protein_g": 2.3,
+    "carbs_g": 24,
+    "fat_g": 0.8,
+    "fiber_g": 1.8,
+    "sugar_g": 0.4,
+    "sodium_mg": 1,
+    "tags": [
+      "low-fat"
+    ]
+  },
+  {
+    "id": 59,
+    "slug": "white-bread",
+    "name": "White Bread",
+    "category": "Grains & Bread",
+    "preparation": "",
+    "servingSizeG": 100,
+    "calories": 265,
+    "protein_g": 9,
+    "carbs_g": 49,
+    "fat_g": 3.2,
+    "fiber_g": 2.7,
+    "sugar_g": 5,
+    "sodium_mg": 491,
+    "tags": []
+  },
+  {
+    "id": 60,
+    "slug": "whole-wheat-bread",
+    "name": "Whole Wheat Bread",
+    "category": "Grains & Bread",
+    "preparation": "",
+    "servingSizeG": 100,
+    "calories": 247,
+    "protein_g": 13,
+    "carbs_g": 41,
+    "fat_g": 3.4,
+    "fiber_g": 6.8,
+    "sugar_g": 5.6,
+    "sodium_mg": 380,
+    "tags": [
+      "high-fiber"
+    ]
+  },
+  {
+    "id": 61,
+    "slug": "oats",
+    "name": "Oats",
+    "category": "Grains & Bread",
+    "preparation": "dry, rolled",
+    "servingSizeG": 100,
+    "calories": 389,
+    "protein_g": 17,
+    "carbs_g": 66,
+    "fat_g": 6.9,
+    "fiber_g": 10.6,
+    "sugar_g": 1,
+    "sodium_mg": 2,
+    "tags": [
+      "high-fiber"
+    ]
+  },
+  {
+    "id": 62,
+    "slug": "pasta",
+    "name": "Pasta",
+    "category": "Grains & Bread",
+    "preparation": "cooked",
+    "servingSizeG": 100,
+    "calories": 131,
+    "protein_g": 5,
+    "carbs_g": 25,
+    "fat_g": 1.1,
+    "fiber_g": 1.8,
+    "sugar_g": 0.6,
+    "sodium_mg": 6,
+    "tags": []
+  },
+  {
+    "id": 63,
+    "slug": "quinoa",
+    "name": "Quinoa",
+    "category": "Grains & Bread",
+    "preparation": "cooked",
+    "servingSizeG": 100,
+    "calories": 120,
+    "protein_g": 4.4,
+    "carbs_g": 21,
+    "fat_g": 1.9,
+    "fiber_g": 2.8,
+    "sugar_g": 0.9,
+    "sodium_mg": 7,
+    "tags": []
+  },
+  {
+    "id": 64,
+    "slug": "bagel",
+    "name": "Bagel",
+    "category": "Grains & Bread",
+    "preparation": "plain",
+    "servingSizeG": 100,
+    "calories": 250,
+    "protein_g": 10,
+    "carbs_g": 49,
+    "fat_g": 1.5,
+    "fiber_g": 2.1,
+    "sugar_g": 6,
+    "sodium_mg": 490,
+    "tags": []
+  },
+  {
+    "id": 65,
+    "slug": "black-beans",
+    "name": "Black Beans",
+    "category": "Legumes & Nuts",
+    "preparation": "cooked",
+    "servingSizeG": 100,
+    "calories": 132,
+    "protein_g": 8.9,
+    "carbs_g": 24,
+    "fat_g": 0.5,
+    "fiber_g": 8.7,
+    "sugar_g": 0.3,
+    "sodium_mg": 1,
+    "tags": [
+      "low-fat",
+      "high-fiber"
+    ]
+  },
+  {
+    "id": 66,
+    "slug": "chickpeas",
+    "name": "Chickpeas",
+    "category": "Legumes & Nuts",
+    "preparation": "cooked",
+    "servingSizeG": 100,
+    "calories": 164,
+    "protein_g": 8.9,
+    "carbs_g": 27,
+    "fat_g": 2.6,
+    "fiber_g": 7.6,
+    "sugar_g": 4.8,
+    "sodium_mg": 7,
+    "tags": [
+      "high-fiber"
+    ]
+  },
+  {
+    "id": 67,
+    "slug": "lentils",
+    "name": "Lentils",
+    "category": "Legumes & Nuts",
+    "preparation": "cooked",
+    "servingSizeG": 100,
+    "calories": 116,
+    "protein_g": 9,
+    "carbs_g": 20,
+    "fat_g": 0.4,
+    "fiber_g": 7.9,
+    "sugar_g": 1.8,
+    "sodium_mg": 2,
+    "tags": [
+      "low-fat",
+      "high-fiber"
+    ]
+  },
+  {
+    "id": 68,
+    "slug": "almonds",
+    "name": "Almonds",
+    "category": "Legumes & Nuts",
+    "preparation": "raw",
+    "servingSizeG": 100,
+    "calories": 579,
+    "protein_g": 21,
+    "carbs_g": 22,
+    "fat_g": 50,
+    "fiber_g": 12.5,
+    "sugar_g": 4.4,
+    "sodium_mg": 1,
+    "tags": [
+      "high-protein",
+      "high-fiber",
+      "calorie-dense"
+    ]
+  },
+  {
+    "id": 69,
+    "slug": "peanut-butter",
+    "name": "Peanut Butter",
+    "category": "Legumes & Nuts",
+    "preparation": "",
+    "servingSizeG": 100,
+    "calories": 588,
+    "protein_g": 25,
+    "carbs_g": 20,
+    "fat_g": 50,
+    "fiber_g": 6,
+    "sugar_g": 9,
+    "sodium_mg": 459,
+    "tags": [
+      "high-protein",
+      "high-fiber",
+      "calorie-dense"
+    ]
+  },
+  {
+    "id": 70,
+    "slug": "walnuts",
+    "name": "Walnuts",
+    "category": "Legumes & Nuts",
+    "preparation": "raw",
+    "servingSizeG": 100,
+    "calories": 654,
+    "protein_g": 15,
+    "carbs_g": 14,
+    "fat_g": 65,
+    "fiber_g": 6.7,
+    "sugar_g": 2.6,
+    "sodium_mg": 2,
+    "tags": [
+      "high-fiber",
+      "calorie-dense"
+    ]
+  },
+  {
+    "id": 71,
+    "slug": "cashews",
+    "name": "Cashews",
+    "category": "Legumes & Nuts",
+    "preparation": "raw",
+    "servingSizeG": 100,
+    "calories": 553,
+    "protein_g": 18,
+    "carbs_g": 30,
+    "fat_g": 44,
+    "fiber_g": 3.3,
+    "sugar_g": 5.9,
+    "sodium_mg": 12,
+    "tags": [
+      "calorie-dense"
+    ]
+  },
+  {
+    "id": 72,
+    "slug": "tofu",
+    "name": "Tofu",
+    "category": "Legumes & Nuts",
+    "preparation": "firm",
+    "servingSizeG": 100,
+    "calories": 76,
+    "protein_g": 8,
+    "carbs_g": 1.9,
+    "fat_g": 4.8,
+    "fiber_g": 0.3,
+    "sugar_g": 0.6,
+    "sodium_mg": 7,
+    "tags": [
+      "low-carb"
+    ]
+  },
+  {
+    "id": 73,
+    "slug": "big-mac",
+    "name": "Big Mac",
+    "category": "Fast Food",
+    "preparation": "1 sandwich, approx.",
+    "servingSizeG": 100,
+    "calories": 257,
+    "protein_g": 12,
+    "carbs_g": 21,
+    "fat_g": 14,
+    "fiber_g": 1.4,
+    "sugar_g": 4.2,
+    "sodium_mg": 471,
+    "tags": []
+  },
+  {
+    "id": 74,
+    "slug": "french-fries-medium",
+    "name": "French Fries (Medium)",
+    "category": "Fast Food",
+    "preparation": "fast food style",
+    "servingSizeG": 100,
+    "calories": 312,
+    "protein_g": 3.4,
+    "carbs_g": 41,
+    "fat_g": 15,
+    "fiber_g": 3.8,
+    "sugar_g": 0.3,
+    "sodium_mg": 210,
+    "tags": []
+  },
+  {
+    "id": 75,
+    "slug": "grilled-chicken-sandwich",
+    "name": "Grilled Chicken Sandwich",
+    "category": "Fast Food",
+    "preparation": "fast food style",
+    "servingSizeG": 100,
+    "calories": 165,
+    "protein_g": 15,
+    "carbs_g": 14,
+    "fat_g": 5,
+    "fiber_g": 1,
+    "sugar_g": 3,
+    "sodium_mg": 300,
+    "tags": []
+  },
+  {
+    "id": 76,
+    "slug": "cheese-pizza-slice",
+    "name": "Cheese Pizza (Slice)",
+    "category": "Fast Food",
+    "preparation": "1 slice, approx. 107g",
+    "servingSizeG": 100,
+    "calories": 266,
+    "protein_g": 11,
+    "carbs_g": 33,
+    "fat_g": 10,
+    "fiber_g": 2.3,
+    "sugar_g": 3.8,
+    "sodium_mg": 598,
+    "tags": []
+  },
+  {
+    "id": 77,
+    "slug": "hot-dog",
+    "name": "Hot Dog",
+    "category": "Fast Food",
+    "preparation": "with bun",
+    "servingSizeG": 100,
+    "calories": 290,
+    "protein_g": 10,
+    "carbs_g": 24,
+    "fat_g": 17,
+    "fiber_g": 1,
+    "sugar_g": 5,
+    "sodium_mg": 810,
+    "tags": []
+  },
+  {
+    "id": 78,
+    "slug": "chicken-burrito",
+    "name": "Chicken Burrito",
+    "category": "Fast Food",
+    "preparation": "fast food style",
+    "servingSizeG": 100,
+    "calories": 172,
+    "protein_g": 8,
+    "carbs_g": 22,
+    "fat_g": 5.6,
+    "fiber_g": 1.6,
+    "sugar_g": 1.2,
+    "sodium_mg": 392,
+    "tags": []
+  },
+  {
+    "id": 79,
+    "slug": "fried-chicken",
+    "name": "Fried Chicken",
+    "category": "Fast Food",
+    "preparation": "1 piece, breaded",
+    "servingSizeG": 100,
+    "calories": 246,
+    "protein_g": 21,
+    "carbs_g": 8,
+    "fat_g": 15,
+    "fiber_g": 0.3,
+    "sugar_g": 0,
+    "sodium_mg": 450,
+    "tags": [
+      "high-protein"
+    ]
+  },
+  {
+    "id": 80,
+    "slug": "glazed-donut",
+    "name": "Glazed Donut",
+    "category": "Fast Food",
+    "preparation": "1 piece, approx. 60g",
+    "servingSizeG": 100,
+    "calories": 452,
+    "protein_g": 5.3,
+    "carbs_g": 51,
+    "fat_g": 25,
+    "fiber_g": 1.7,
+    "sugar_g": 20,
+    "sodium_mg": 373,
+    "tags": [
+      "calorie-dense"
+    ]
+  },
+  {
+    "id": 81,
+    "slug": "cola",
+    "name": "Cola",
+    "category": "Beverages",
+    "preparation": "regular, sweetened",
+    "servingSizeG": 100,
+    "calories": 42,
+    "protein_g": 0,
+    "carbs_g": 10.6,
+    "fat_g": 0,
+    "fiber_g": 0,
+    "sugar_g": 10.6,
+    "sodium_mg": 4,
+    "tags": [
+      "low-calorie",
+      "low-fat"
+    ]
+  },
+  {
+    "id": 82,
+    "slug": "orange-juice",
+    "name": "Orange Juice",
+    "category": "Beverages",
+    "preparation": "100% juice",
+    "servingSizeG": 100,
+    "calories": 45,
+    "protein_g": 0.7,
+    "carbs_g": 10.4,
+    "fat_g": 0.2,
+    "fiber_g": 0.2,
+    "sugar_g": 8.4,
+    "sodium_mg": 1,
+    "tags": [
+      "low-calorie",
+      "low-fat"
+    ]
+  },
+  {
+    "id": 83,
+    "slug": "black-coffee",
+    "name": "Black Coffee",
+    "category": "Beverages",
+    "preparation": "brewed, unsweetened",
+    "servingSizeG": 100,
+    "calories": 1,
+    "protein_g": 0.1,
+    "carbs_g": 0,
+    "fat_g": 0,
+    "fiber_g": 0,
+    "sugar_g": 0,
+    "sodium_mg": 2,
+    "tags": [
+      "low-calorie",
+      "low-fat",
+      "low-carb"
+    ]
+  },
+  {
+    "id": 84,
+    "slug": "green-tea",
+    "name": "Green Tea",
+    "category": "Beverages",
+    "preparation": "brewed, unsweetened",
+    "servingSizeG": 100,
+    "calories": 1,
+    "protein_g": 0,
+    "carbs_g": 0.2,
+    "fat_g": 0,
+    "fiber_g": 0,
+    "sugar_g": 0,
+    "sodium_mg": 1,
+    "tags": [
+      "low-calorie",
+      "low-fat",
+      "low-carb"
+    ]
+  },
+  {
+    "id": 85,
+    "slug": "beer",
+    "name": "Beer",
+    "category": "Beverages",
+    "preparation": "regular",
+    "servingSizeG": 100,
+    "calories": 43,
+    "protein_g": 0.5,
+    "carbs_g": 3.6,
+    "fat_g": 0,
+    "fiber_g": 0,
+    "sugar_g": 0,
+    "sodium_mg": 4,
+    "tags": [
+      "low-calorie",
+      "low-fat",
+      "low-carb"
+    ]
+  },
+  {
+    "id": 86,
+    "slug": "red-wine",
+    "name": "Red Wine",
+    "category": "Beverages",
+    "preparation": "",
+    "servingSizeG": 100,
+    "calories": 85,
+    "protein_g": 0.1,
+    "carbs_g": 2.6,
+    "fat_g": 0,
+    "fiber_g": 0,
+    "sugar_g": 0.6,
+    "sodium_mg": 4,
+    "tags": [
+      "low-fat",
+      "low-carb"
+    ]
+  },
+  {
+    "id": 87,
+    "slug": "potato-chips",
+    "name": "Potato Chips",
+    "category": "Snacks",
+    "preparation": "",
+    "servingSizeG": 100,
+    "calories": 536,
+    "protein_g": 7,
+    "carbs_g": 53,
+    "fat_g": 35,
+    "fiber_g": 4.4,
+    "sugar_g": 0.2,
+    "sodium_mg": 525,
+    "tags": [
+      "calorie-dense"
+    ]
+  },
+  {
+    "id": 88,
+    "slug": "popcorn",
+    "name": "Popcorn",
+    "category": "Snacks",
+    "preparation": "air-popped",
+    "servingSizeG": 100,
+    "calories": 387,
+    "protein_g": 13,
+    "carbs_g": 78,
+    "fat_g": 4.5,
+    "fiber_g": 15,
+    "sugar_g": 0.9,
+    "sodium_mg": 8,
+    "tags": [
+      "high-fiber"
+    ]
+  },
+  {
+    "id": 89,
+    "slug": "milk-chocolate-bar",
+    "name": "Milk Chocolate Bar",
+    "category": "Snacks",
+    "preparation": "",
+    "servingSizeG": 100,
+    "calories": 535,
+    "protein_g": 7.6,
+    "carbs_g": 59,
+    "fat_g": 30,
+    "fiber_g": 3.4,
+    "sugar_g": 52,
+    "sodium_mg": 79,
+    "tags": [
+      "calorie-dense"
+    ]
+  },
+  {
+    "id": 90,
+    "slug": "vanilla-ice-cream",
+    "name": "Vanilla Ice Cream",
+    "category": "Snacks",
+    "preparation": "",
+    "servingSizeG": 100,
+    "calories": 207,
+    "protein_g": 3.5,
+    "carbs_g": 24,
+    "fat_g": 11,
+    "fiber_g": 0.7,
+    "sugar_g": 21,
+    "sodium_mg": 80,
+    "tags": []
+  },
+  {
+    "id": 91,
+    "slug": "granola-bar",
+    "name": "Granola Bar",
+    "category": "Snacks",
+    "preparation": "",
+    "servingSizeG": 100,
+    "calories": 471,
+    "protein_g": 10,
+    "carbs_g": 64,
+    "fat_g": 20,
+    "fiber_g": 5,
+    "sugar_g": 29,
+    "sodium_mg": 200,
+    "tags": [
+      "high-fiber",
+      "calorie-dense"
+    ]
+  }
+]
